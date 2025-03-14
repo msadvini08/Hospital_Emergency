@@ -1,4 +1,4 @@
-# # Hospital Emergency Room (ER) Data Analysis Report using POWER BI
+ # Hospital Emergency Room (ER) Data Analysis Report using POWER BI
 
 ## **1. Introduction**
 Emergency rooms (ERs) are critical healthcare facilities that handle patient admissions, treatment, and hospital referrals. This project aims to analyze **Hospital ER data** to identify **trends in patient demographics, department referrals, admission rates, and satisfaction scores**. Using **Power BI**, the data has been visualized for actionable insights, which can help improve **ER efficiency and patient care**.
@@ -63,10 +63,11 @@ Emergency rooms (ERs) are critical healthcare facilities that handle patient adm
   - **Line Graphs** (Trends over time)
   - **Pie Charts** (Satisfaction score distributions)
 - **Screenshots of Power BI Dashboards:**
-  - ![Monthly View](./Monthly%20View.png)
-  - ![Consolidated View](./Consolidated%20View.png)
-  - ![Patient Details](./Patient%20Details.png)
-  - ![Key Takeaways](./Key%20Takeaways.png)
+  ![Monthly view](https://github.com/user-attachments/assets/2c305c80-37a5-4756-a1dd-c81da5e07872)
+  ![Consolidated View](https://github.com/user-attachments/assets/5b6bc354-9f48-4679-94d7-efeecc579fd6)
+  ![Patient Details](https://github.com/user-attachments/assets/ac9bb539-fcea-4e97-be0c-3c464cc077fd)
+  ![Key Takeaways](https://github.com/user-attachments/assets/39ea6ffa-855b-4053-ada1-0dee024315c9)
+
 
 ## **6. Technologies Used**
 - **Power BI** – Interactive visualization and dashboard creation.
