@@ -62,6 +62,8 @@ Emergency rooms (ERs) are critical healthcare facilities that handle patient adm
   - **Bar Charts** (Department referrals, admissions, and demographics)
   - **Line Graphs** (Trends over time)
   - **Pie Charts** (Satisfaction score distributions)
+  -**Heatmaps** (Patient visit timing analysis)
+    
 - **Screenshots of Power BI Dashboards:**
   ![Monthly view](https://github.com/user-attachments/assets/2c305c80-37a5-4756-a1dd-c81da5e07872)
   ![Consolidated View](https://github.com/user-attachments/assets/5b6bc354-9f48-4679-94d7-efeecc579fd6)
